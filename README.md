@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Nguyen Hoang Kiet</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Hoang Kiet</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 
 - 🔭 I’m currently working on [TogetherWeGo](https://github.com/quanminh251102/together_we_go)
