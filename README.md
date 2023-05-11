@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Hoang Kiet</h1>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 
-- 🔭 I’m currently working on [TogetherWeGo](https://github.com/quanminh251102/together_we_go)
-
-- 👯 I worked on [Ezi2learn](https://github.com/quanminh251102/Ezi2learn)
+- 🔭 I’m currently studying on [UIT](https://www.uit.edu.vn/)
 
 - 📫 How to reach me **skill1sp2@gmail.com**
 
