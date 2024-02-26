@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nguyen Hoang Kiet</h1>
-<h3 align="center">A passionate backend developer from VietNam</h3>
+<h3 align="center">A passionate software developer from VietNam</h3>
 
-- 🔭 I’m currently studying on [UIT](https://www.uit.edu.vn/)
-
-- 📫 How to reach me **skill1sp2@gmail.com**
+🎓 Software Engineering Student at Ho Chi Minh City University of Information Technology
+🌟 Passionate about software development, problem-solving, and innovation
+📚 Constantly learning and exploring new technologies
+💻 Experienced in various programming languages and tools
+🌐 Seeking opportunities to contribute to exciting projects and collaborate with like-minded individuals
+📫 Reach me at: nguyenhoangkiet2002dt@gmail.com
+🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/hoang-kiet-nguyen-73185b273/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
